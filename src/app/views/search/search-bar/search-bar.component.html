@@ -1,14 +1,16 @@
-  <form class="form">
+  <form (ngSubmit)="onSubmit(query.value)" class="form">
     <div class="d-flex flex-row">
       <input 
         class="form-control mr-sm-2" 
-        type="search" 
+        type="text" 
         placeholder="Search" 
         aria-label="Search" 
         (focus)= "onInputFocus()" 
         (focusout)= "onInputFocusOut()" 
-        [ngClass]="{'w-100': grow, 'w-50': !grow}"
-      >
+        [class.w-100]="grow"
+        [class.w-50]="!grow"
+        #query
+      />
       <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
     </div>
   </form>

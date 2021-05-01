@@ -1,0 +1,19 @@
+<div class="container-fluid d-flex flex-column justify-content-center">
+    <app-panel>
+        <div class="header">Favorites books</div>
+        <div class="body">
+            <div *ngFor="let favorite of favorites">
+                <app-card 
+                    [isFavorite]="checkIsFavorite(favorite.id)" 
+                    [item]="favorite"
+                ></app-card>
+            </div>
+            <div [ngClass]="{
+                'd-none': favorites?.length != 0,
+                'd-flex justify-content-center': favorites?.length == 0
+            }">
+                <h4>No saved books!</h4>
+            </div>
+        </div>
+    </app-panel>
+</div>

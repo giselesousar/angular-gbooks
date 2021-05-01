@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import data from './mocks/books';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

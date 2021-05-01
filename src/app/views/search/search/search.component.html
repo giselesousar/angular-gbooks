@@ -1,0 +1,25 @@
+<div class="container-fluid d-flex flex-column justify-content-center">
+    <app-panel>
+        <div class="header">Search books</div>
+        <div class="body">
+            <app-search-bar></app-search-bar>
+        </div>
+    </app-panel>
+    
+    <app-panel>
+        <div class="header">Results</div>
+        <div class="body">
+            <div *ngFor="let item of items">
+                <app-card [isFavorite]="checkIsFavorite(item.id)" [item]="item"></app-card>
+            </div>
+            <div [ngClass]="{
+                'd-none': items.length != 0,
+                'd-flex justify-content-center': items.length == 0
+            }">
+                <h4>Please search for a book!</h4>
+            </div>
+        </div>
+    </app-panel>
+</div>
+
+

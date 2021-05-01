@@ -22,4 +22,8 @@ export class SearchBarComponent implements OnInit {
     this.grow = false;
   }
 
+  onSubmit(query: string){
+    console.log(query);
+  }
+
 }

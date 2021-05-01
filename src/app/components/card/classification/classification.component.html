@@ -1,0 +1,18 @@
+<div class="d-flex flex-column align-items-center">
+    <div class="d-flex flex-row">
+        <div *ngFor="let label of labels, let i = index">
+            <i 
+            [ngClass]="{
+                'bi-star-fill': i <= optionOver,
+                'bi-star': i > optionOver
+            }"
+            class="p-1 text-primary"
+            (mouseover)="onMouseOver(i)"
+            (mouseout)="onMouseOut()"
+            (click)="selectOption(i)"
+            >
+        </i>
+        </div>
+    </div>
+    <p>{{ labels[optionOver] }}</p>
+</div>

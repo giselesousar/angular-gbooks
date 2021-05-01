@@ -4,6 +4,7 @@ export interface Item {
     volumeInfo: {
         title: string
         authors: string[]
+        description: string
         publishedDate: string
         pageCount: number
         imageLinks: {

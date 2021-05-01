@@ -1,167 +1,65 @@
 export default [
     {
-        "id": "y4AZ-k-zUskC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/y4AZ-k-zUskC",
+        "id": "4SHXDwAAQBAJ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4SHXDwAAQBAJ",
         "volumeInfo": {
-            "title": "Note on Angular Distributions in Nuclear Reactions",
+            "title": "LPWAN Technologies for IoT and M2M Applications",
             "authors": [
-                "E. Eisner",
-                "R. G. Sachs"
+                "Bharat S. Chaudhari",
+                "Marco Zennaro"
             ],
-            "publishedDate": "1947",
-            "pageCount": 6,
+            "publishedDate": "2020-03",
+            "description": "LPWAN Technologies for IoT and M2M Applications provides insight into LPWAN technologies, also presenting a wide range of applications and a discussion on security issues and future challenges and research directions. This book is a beneficial and insightful resource for university researchers, graduate students and R&D engineers who are designing networks and implementing IoT applications. To support new requirements for this emerging industry, a new paradigm of Low Power Wide Area Networks (LPWAN) has recently evolved, including LoRa, Sigfox and NB-IoT, hence this book presents the latest updates.",
+            "pageCount": 325,
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "thumbnail": "http://books.google.com/books/content?id=4SHXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
         },
         "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=y4AZ-k-zUskC&rdid=book-y4AZ-k-zUskC&rdot=1&source=gbs_api"
+            "buyLink": ""
         },
     },
     {
-        "id": "iXAYqzeP_wsC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/iXAYqzeP_wsC",
+        "id": "R3kSEAAAQBAJ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/R3kSEAAAQBAJ",
         "volumeInfo": {
-            "title": "A Nonlinear Estimator for Reconstructing the Angular Velocity of a Spacecraft Without Rate Gyros",
+            "title": "Handbook of Research on the Impact of Deep Learning and IoT on Multi-Industry Applications",
             "authors": [
-                "Michael Edward Polites"
+                "Roshani Raut",
+                "Albena Dimitrova Mihovska"
             ],
-            "publishedDate": "1991",
-            "pageCount": 19,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=iXAYqzeP_wsC&rdid=book-iXAYqzeP_wsC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "y4AZ-k-zUskC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/y4AZ-k-zUskC",
-        "volumeInfo": {
-            "title": "Note on Angular Distributions in Nuclear Reactions",
-            "authors": [
-                "E. Eisner",
-                "R. G. Sachs"
-            ],
-            "publishedDate": "1947",
-            "pageCount": 6,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=y4AZ-k-zUskC&rdid=book-y4AZ-k-zUskC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "iXAYqzeP_wsC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/iXAYqzeP_wsC",
-        "volumeInfo": {
-            "title": "A Nonlinear Estimator for Reconstructing the Angular Velocity of a Spacecraft Without Rate Gyros",
-            "authors": [
-                "Michael Edward Polites"
-            ],
-            "publishedDate": "1991",
-            "pageCount": 19,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=iXAYqzeP_wsC&rdid=book-iXAYqzeP_wsC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "y4AZ-k-zUskC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/y4AZ-k-zUskC",
-        "volumeInfo": {
-            "title": "Note on Angular Distributions in Nuclear Reactions",
-            "authors": [
-                "E. Eisner",
-                "R. G. Sachs"
-            ],
-            "publishedDate": "1947",
-            "pageCount": 6,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=y4AZ-k-zUskC&rdid=book-y4AZ-k-zUskC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "iXAYqzeP_wsC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/iXAYqzeP_wsC",
-        "volumeInfo": {
-            "title": "A Nonlinear Estimator for Reconstructing the Angular Velocity of a Spacecraft Without Rate Gyros",
-            "authors": [
-                "Michael Edward Polites"
-            ],
-            "publishedDate": "1991",
-            "pageCount": 19,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=iXAYqzeP_wsC&rdid=book-iXAYqzeP_wsC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "y4AZ-k-zUskC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/y4AZ-k-zUskC",
-        "volumeInfo": {
-            "title": "Note on Angular Distributions in Nuclear Reactions",
-            "authors": [
-                "E. Eisner",
-                "R. G. Sachs"
-            ],
-            "publishedDate": "1947",
-            "pageCount": 6,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=y4AZ-k-zUskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=y4AZ-k-zUskC&rdid=book-y4AZ-k-zUskC&rdot=1&source=gbs_api"
-        },
-    },
-    {
-        "id": "iXAYqzeP_wsC",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/iXAYqzeP_wsC",
-        "volumeInfo": {
-            "title": "A Nonlinear Estimator for Reconstructing the Angular Velocity of a Spacecraft Without Rate Gyros",
-            "authors": [
-                "Michael Edward Polites"
-            ],
-            "publishedDate": "1991",
-            "pageCount": 19,
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=iXAYqzeP_wsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-        },
-        "saleInfo": {
-            "buyLink": "https://play.google.com/store/books/details?id=iXAYqzeP_wsC&rdid=book-iXAYqzeP_wsC&rdot=1&source=gbs_api"
-        },
-    },
+            "publishedDate": "2021-01-29",
+            "description": "\"This book provides insights on how deep learning, together with IOT, will impact various sectors such as healthcare, agriculture, cyber security, and social media analysis applications offering solutions to various real-world problems using these methods from various researchers' point of views\"--",
+            "pageCount": 400,
 
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=R3kSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+        },
+        "saleInfo": {
+            "buyLink": ""
+        },
+    },
+    {
+        "id": "gW3cDwAAQBAJ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gW3cDwAAQBAJ",
+        "volumeInfo": {
+            "title": "Embedded Software for the IoT",
+            "authors": [
+                "Klaus Elk"
+            ],
+            "publishedDate": "2018-12-03",
+            "description": "With a mixture of theory, examples, and well-integrated figures, Embedded Software for the IoT helps the reader understand the details in the technologies behind the devices used in the Internet of Things. It provides an overview of IoT, parameters of designing an embedded system, and good practice concerning code, version control and defect-tracking needed to build and maintain a connected embedded system. After presenting a discussion on the history of the internet and the word wide web the book introduces modern CPUs and operating systems. The author then delves into an in-depth view of core IoT domains including: Wired and wireless networking Digital filters Security in embedded and networked systems Statistical Process Control for Industry 4.0 This book will benefit software developers moving into the embedded realm as well as developers already working with embedded systems.",
+            "pageCount": 294,
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=gW3cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+        },
+        "saleInfo": {
+            "buyLink": ""
+        },
+    },
 ]
